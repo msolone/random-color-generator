@@ -1,0 +1,5 @@
+- [X] Create array 1-F
+- [X] create empty array variable
+- [X] For loop through 1-F Array 6 times, targeting the index,              and adding the selection to the empty array
+- [X] Join the array together to create random color-code
+- [ ] add colo-code to css and html
